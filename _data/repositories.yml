@@ -3,4 +3,5 @@ github_users:
   - MLRecSys
 
 github_repos:
+  - johanneskruse/RecSys_DK
   - MLRecSys/metrecs
