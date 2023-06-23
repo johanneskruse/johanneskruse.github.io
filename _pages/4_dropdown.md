@@ -9,4 +9,5 @@ children:
     - title: divider
     - title: CV
       permalink: /cv/
+nav_order: 4
 ---
