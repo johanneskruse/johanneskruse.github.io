@@ -1,7 +1,6 @@
 github_users:
   - johanneskruse
-  - MLRecSys
 
 github_repos:
-  - alshedivat/al-folio
+  - johanneskruse/RecSys_DK
   - MLRecSys/metrecs
