@@ -4,7 +4,6 @@ permalink: /cv/
 title: CV
 heading: CV
 nav: true
-nav_order: 4
 ---
 
 <center>
