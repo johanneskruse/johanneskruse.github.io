@@ -1,3 +1,3 @@
-# Personal page
+# Hello! 
 
-Thank you [al-folio](https://github.com/alshedivat/al-folio) for an awesome theme.
+this is the website for my personal page. 

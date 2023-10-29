@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Resume"
+    url: /img/resume.pdf
+  - title: "RecoGym Challenge"
+    url: /recogym/
