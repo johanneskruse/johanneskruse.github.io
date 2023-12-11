@@ -1,11 +1,13 @@
 ---
-layout: page_no_post_header
+layout: page
 permalink: /research/
 heading: Research # navbar
 title: Research # page
 nav: true
 nav_order: 2
 ---
+
+----
 
 ## **Publications**
 
