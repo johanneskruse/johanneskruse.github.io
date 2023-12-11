@@ -2,11 +2,12 @@
 layout: page
 permalink: /publications/
 heading: publications
-title: publications2
+title: publications
 nav: true
 nav_order: 2
 ---
 
+----
 ## Publications
 ### 2023
 - Creating the next generation of news experience on ekstrabladet.dk with recommender systems, 
@@ -22,7 +23,7 @@ nav_order: 2
   *The Danish Council of Ethics*, 
   [[Paper](https://www.ft.dk/samling/20191/almdel/UER/bilag/2/2095890/index.htm)]
 
-------
+----
 
 ## Talks 
 ### 2023
