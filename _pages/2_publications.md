@@ -15,7 +15,17 @@ nav_order: 2
 {% endfor %}
 
 </div> -->
-
 <!-- [Google Scholar](https://scholar.google.com/citations?user=N_zRKd8AAAAJ&hl=en) -->
-
 <!-- [ResearchGate](), [DBLP](), [Semantic Scholar](https://www.semanticscholar.org/author/Olivier-Jeunen/52628148) -->
+
+<!-- ## Research -->
+
+<!-- 
+## Poster
+- (RecSys 2023)[https://recsys.acm.org/recsys23/]
+- (GeMMS)[https://gemss.ai/]
+- (Nordic AI meet 2023)[https://nordicaimeet.com/] -->
+
+## Talks 
+- Nordic AI in Media Summit 2023 - [Creating the Next Generation of News Experience with Recommender Systems](https://www.youtube.com/watch?v=i9hcu3Szo7w)
+- Personalization day Norway 2023 - [video]([https://www.youtube.com/watch?v=piCuYLEYQZc]) and [slides](https://docs.google.com/presentation/d/1-GbielaqVoukg3L_KI7NUnVPjBYUB7qA/edit#slide=id.p1)
