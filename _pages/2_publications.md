@@ -1,14 +1,15 @@
 ---
 layout: page
 permalink: /research/
-heading: research
-title: research
+heading: blank
+title: blank
 nav: true
 nav_order: 2
 ---
 
 ----
-## Publications
+## **Publications**
+
 ### 2023
 - Creating the next generation of news experience on ekstrabladet.dk with recommender systems, 
   *17th ACM Conference on Recommender Systems* 
@@ -25,7 +26,8 @@ nav_order: 2
 
 ----
 
-## Talks 
+## **Talks** 
+
 ### 2023
 - **2023-05-09** - Nordic AI in Media Summit 2023
   [[oral](https://www.youtube.com/watch?v=i9hcu3Szo7w)]
