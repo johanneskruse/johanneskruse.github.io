@@ -7,19 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!-- <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i
-                class="ai ai-scopus"></i></a>
-{% endif %}
-
-{%- if site.scholar_userid -%}
-<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i
-                class="ai ai-google-scholar"></i></a>
-{% endif %}
-
-{%- if site.orcid_id -%}
-<a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
-{% endif %} -->
-
 ----
 
 ## **Publications**
