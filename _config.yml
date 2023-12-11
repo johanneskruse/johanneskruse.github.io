@@ -64,29 +64,33 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 contact_note: >
   Get in touch @
 
+# Social links
 github_username: johanneskruse # your GitHub user name
 twitter_username: johanneskrse # your Twitter handle
 linkedin_username: johanneskruse # your LinkedIn user name
+
+# Academic networking
 scholar_userid: N_zRKd8AAAAJ&hl=en # your Google Scholar ID
+research_gate_profile: # your profile on ResearchGate
+dblp_url: # your DBLP profile url
+semanticscholar_id: # your Semantic Scholar ID
+scopus_id: # your profile on Scopus
 orcid_id: 0009-0007-5830-0611 # your ORCID ID
+
 gitlab_username: # your GitLab user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 telegram_username: # your Telegram user name
-semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id

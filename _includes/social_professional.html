@@ -1,0 +1,16 @@
+<!-- Social professional: -->
+{%- if site.twitter_username -%}
+<a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+{% endif %}
+
+{%- if site.github_username -%}
+<a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
+{% endif %}
+
+{%- if site.linkedin_username -%}
+<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+{% endif %}
+
+{%- if site.email -%}
+<a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+{% endif %}

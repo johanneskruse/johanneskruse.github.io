@@ -27,3 +27,7 @@ I'm working on machine learning and normative design, trying to create the next 
 
 Get in touch @
 <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+
+
+
+<a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>

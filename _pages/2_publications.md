@@ -7,6 +7,32 @@ nav: true
 nav_order: 2
 ---
 
+.social {
+  text-align: center;
+
+  .contact-icons {
+    font-size: 3rem;
+    /* Adjusted from 4rem to 3rem */
+
+    a {
+      i::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+
+  .contact-note {
+    font-size: 0.8rem;
+  }
+}
+
 ----
 
 ## **Publications**
