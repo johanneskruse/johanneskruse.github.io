@@ -15,6 +15,7 @@ layout: default
   <article>
     {% if page.profile -%}
     <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+      <!-- Profile picture: -->
       {%- if page.profile.image %}
       {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
@@ -29,60 +30,46 @@ layout: default
       class=profile_image_class
       alt=page.profile.image -%}
       {% endif -%}
+      <!--  -->
+
+      <!-- Address: -->
       {%- if page.profile.address %}
       <div class="address">
         {{ page.profile.address }}
       </div>
       {%- endif %}
+
+      <!-- Social Professional -->
+      {%- if page.social_professional %}
+      <div class="social">
+        <div class="contact-note">
+          {{ site.contact_note_professional }}
+        </div>
+        <div class="contact-icons">
+          {% include social_professional.html %}
+        </div>
+      </div>
+      {%- endif %}
+      <!-- -->
+
+      <!-- Social Professional -->
       {%- if page.social_research %}
       <div class="social">
-
         <div class="contact-note">
           {{ site.contact_note_research }}
         </div>
-
         <div class="contact-icons">
           {% include social_research.html %}
         </div>
-
       </div>
       {%- endif %}
+      <!-- -->
     </div>
     {%- endif %}
 
     <div class="clearfix">
       {{ content }}
     </div>
-
-    <!-- Social -->
-    {%- if page.social_professional %}
-    <div class="social">
-
-      <div class="contact-note">
-        {{ site.contact_note_professional }}
-      </div>
-
-      <div class="contact-icons">
-        {% include social_professional.html %}
-      </div>
-
-    </div>
-    {%- endif %}
-
-    {%- if page.social_research %}
-    <div class="social">
-
-      <div class="contact-note">
-        {{ site.contact_note_research }}
-      </div>
-
-      <div class="contact-icons">
-        {% include social_research.html %}
-      </div>
-
-    </div>
-    {%- endif %}
-
 
     <!-- News -->
     {% if page.news and site.announcements.enabled -%}
