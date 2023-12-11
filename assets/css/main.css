@@ -381,41 +381,6 @@ blockquote {
   font-size: 0.8rem;
 }
 
-.social_research {
-  text-align: center;
-}
-.social_research .contact-icons {
-  font-size: 2rem;
-  /* Adjusted from 4rem */
-}
-.social_research .contact-icons a i::before {
-  color: var(--global-text-color);
-  transition-property: all 0.2s ease-in-out;
-}
-.social_research .contact-icons a:hover i::before {
-  color: var(--global-theme-color);
-}
-.social_research .contact-note {
-  font-size: 0.8rem;
-}
-
-.social_professional {
-  text-align: center;
-}
-.social_professional .contact-icons {
-  font-size: 3rem;
-}
-.social_professional .contact-icons a i::before {
-  color: var(--global-text-color);
-  transition-property: all 0.2s ease-in-out;
-}
-.social_professional .contact-icons a:hover i::before {
-  color: var(--global-theme-color);
-}
-.social_professional .contact-note {
-  font-size: 0.8rem;
-}
-
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
