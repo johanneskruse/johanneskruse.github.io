@@ -1,6 +1,6 @@
 ---
-layout: about
-permalink: /
+layout: page
+permalink: /research/
 heading: publications
 title: publications
 nav: true
