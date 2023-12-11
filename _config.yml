@@ -61,6 +61,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+contact_note: >
+  Get in touch @
+
 github_username: johanneskruse # your GitHub user name
 twitter_username: johanneskrse # your Twitter handle
 linkedin_username: johanneskruse # your LinkedIn user name
@@ -94,9 +97,6 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
-
-contact_note: >
-  Get in touch @
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
