@@ -1,8 +1,8 @@
 ---
 layout: page_no_post_header
 permalink: /research/
-heading: research 
-# title: research
+heading: Research # navbar
+title: Research # page
 nav: true
 nav_order: 2
 ---
