@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 social_professional: true
 social_research: true
 
@@ -29,6 +29,7 @@ I'm working on machine learning and normative design, trying to create the next 
 [Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), and 
 [Jes Frellsen](https://frellsen.org/).
 
+<!-- 
 <div class="social">
   <div class="contact-note">
     {{ site.contact_note_professional }}
@@ -36,4 +37,5 @@ I'm working on machine learning and normative design, trying to create the next 
   <div class="contact-icons">
     {% include social_professional.html %}
   </div>
-</div>
+</div> 
+-->
