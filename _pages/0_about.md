@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -13,12 +13,34 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
+Greetings! 👋 I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the [Technical University of Denmark](https://www.dtu.dk/english/), in collaboration with [Ekstra Bladet](https://ekstrabladet.dk/). I'm working on Machine Learning and Normative Design with focusing on news recommendation, supervised by 
+[Kasper Lindskow](https://www.linkedin.com/in/kasper-lindskow-6bb2089/?originalSubdomain=dk), 
+[Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), and 
+[Jes Frellsen](https://frellsen.org/).
 
 Get in touch @ 
+(linkedin)[https://www.linkedin.com/in/johanneskruse/], 
+(X)[https://twitter.com/johanneskrse],
+(github)[https://github.com/johanneskruse]
+google
 
+
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:olivierjeunen@gmail.com"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter"
+    url: "https://twitter.com/olivierjeunen"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/olivierjeunen"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/olivier-jeunen-6ba928114/"
