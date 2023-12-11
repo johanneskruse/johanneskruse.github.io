@@ -1,13 +1,12 @@
 ---
-layout: page_noheading
+layout: page_no_post_header
 permalink: /research/
-heading: research
-title: research
+# heading: research
+# title: research
 nav: true
 nav_order: 2
 ---
 
-----
 ## **Publications**
 
 ### 2023
