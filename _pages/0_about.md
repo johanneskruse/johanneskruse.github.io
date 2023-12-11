@@ -17,6 +17,7 @@ news: false # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"announcements
 social_professional: true
+social_research: true
 ---
 
 Greetings! 👋 I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the [Technical University of Denmark](https://www.dtu.dk/english/), in collaboration with [Ekstra Bladet](https://ekstrabladet.dk/) as part of the PIN-project. 
