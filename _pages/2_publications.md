@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: page_noheading
 permalink: /research/
 heading: research
 title: research
