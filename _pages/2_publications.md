@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
+heading: publications
+title: publications2
 nav: true
 nav_order: 2
-heading: publications
-# title: publications
 ---
 
 ## Publications
@@ -26,7 +26,7 @@ heading: publications
 
 ## Talks 
 ### 2023
-- **2023-05-09** - Nordic AI in Media Summit 2023 - 
-  [oral](https://www.youtube.com/watch?v=i9hcu3Szo7w)
+- **2023-05-09** - Nordic AI in Media Summit 2023
+  [[oral](https://www.youtube.com/watch?v=i9hcu3Szo7w)]
 - **2023-03-30** - Personalization day Norway 2023 
-  [oral](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492) & [slides](https://docs.google.com/presentation/d/1-GbielaqVoukg3L_KI7NUnVPjBYUB7qA/edit#slide=id.p1)
+  [[oral](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)] & [[slides](https://docs.google.com/presentation/d/1-GbielaqVoukg3L_KI7NUnVPjBYUB7qA/edit#slide=id.p1)]
