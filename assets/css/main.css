@@ -385,8 +385,8 @@ blockquote {
   text-align: center;
 }
 .social_research .contact-icons {
-  font-size: 3rem;
-  /* Adjusted from 4rem to 3rem */
+  font-size: 2rem;
+  /* Adjusted from 4rem */
 }
 .social_research .contact-icons a i::before {
   color: var(--global-text-color);
@@ -404,7 +404,6 @@ blockquote {
 }
 .social_professional .contact-icons {
   font-size: 3rem;
-  /* Adjusted from 4rem to 3rem */
 }
 .social_professional .contact-icons a i::before {
   color: var(--global-text-color);
