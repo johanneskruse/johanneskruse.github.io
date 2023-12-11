@@ -29,6 +29,7 @@ I'm working on machine learning and normative design, trying to create the next 
 [Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), and 
 [Jes Frellsen](https://frellsen.org/).
 
+
 <!-- 
 <div class="social">
   <div class="contact-note">
