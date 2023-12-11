@@ -42,7 +42,7 @@ layout: default
     </div>
 
     <!-- Social -->
-    {%- if page.social %}
+    {%- if page.social_professional %}
     <div class="social">
 
       <div class="contact-note">
@@ -50,11 +50,12 @@ layout: default
       </div>
 
       <div class="contact-icons">
-        {% include social.html %}
+        {% include social_professional.html %}
       </div>
 
     </div>
     {%- endif %}
+
 
     <!-- News -->
     {% if page.news and site.announcements.enabled -%}
@@ -73,6 +74,22 @@ layout: default
     <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
     {%- include selected_papers.html %}
     {%- endif %}
+
+    <!-- Social -->
+    {%- if page.social %}
+    <div class="social">
+
+      <div class="contact-note">
+        {{ site.contact_note }}
+      </div>
+
+      <div class="contact-icons">
+        {% include social.html %}
+      </div>
+
+    </div>
+    {%- endif %}
+
 
   </article>
 
