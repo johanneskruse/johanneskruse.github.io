@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-heading: blank
-title: blank
+heading: 
+title: research
 nav: true
 nav_order: 2
 ---
