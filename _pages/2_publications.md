@@ -11,6 +11,11 @@ social_research: true
 ----
 
 ## **Publications**
+<div class="social">
+  <div class="contact-icons">
+    {% include social_research.html %}
+  </div>
+</div>
 
 ### 2023
 - Creating the next generation of news experience on ekstrabladet.dk with recommender systems, 
