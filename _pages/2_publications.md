@@ -6,12 +6,9 @@ title: Research # page
 nav: true
 nav_order: 2
 ---
-
 <!-- Social -->
-<div class="social">
-  <div class="contact-icons">
-    {% include social_research.html %}
-  </div>
+<div class="contact-icons">
+  {% include social_research.html %}
 </div>
 
 ----
