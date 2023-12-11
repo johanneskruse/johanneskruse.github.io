@@ -24,4 +24,4 @@ Greetings! 👋 I am Johannes Kruse, currently embarking on an Industrial PhD in
 [Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), and 
 [Jes Frellsen](https://frellsen.org/).
 
-Get in touch @ 
+<!-- Get in touch @  -->
