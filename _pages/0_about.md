@@ -25,22 +25,3 @@ Greetings! 👋 I am Johannes Kruse, currently embarking on an Industrial PhD in
 [Jes Frellsen](https://frellsen.org/).
 
 Get in touch @ 
-(linkedin)[https://www.linkedin.com/in/johanneskruse/], 
-(X)[https://twitter.com/johanneskrse],
-(github)[https://github.com/johanneskruse]
-google
-
-
-links:
-  - label: "Email"
-    icon: "fas fa-fw fa-envelope-square"
-    url: "mailto:olivierjeunen@gmail.com"
-  - label: "Twitter"
-    icon: "fab fa-fw fa-twitter"
-    url: "https://twitter.com/olivierjeunen"
-  - label: "GitHub"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/olivierjeunen"
-  - label: "LinkedIn"
-    icon: "fab fa-fw fa-linkedin"
-    url: "https://www.linkedin.com/in/olivier-jeunen-6ba928114/"
