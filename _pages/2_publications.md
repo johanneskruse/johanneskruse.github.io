@@ -11,11 +11,11 @@ social_research: true
 ----
 
 ## **Publications**
-<div class="social">
+<!-- <div class="social">
   <div class="contact-icons">
     {% include social_research.html %}
   </div>
-</div>
+</div> -->
 
 ### 2023
 - Creating the next generation of news experience on ekstrabladet.dk with recommender systems, 
@@ -37,6 +37,6 @@ social_research: true
 
 ### 2023
 - **2023-05-09** - Nordic AI in Media Summit 2023
-  [[oral](https://www.youtube.com/watch?v=i9hcu3Szo7w)]
+  [[Oral](https://www.youtube.com/watch?v=i9hcu3Szo7w)]
 - **2023-03-30** - Personalization day Norway 2023 
-  [[oral](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)] & [[slides](https://docs.google.com/presentation/d/1-GbielaqVoukg3L_KI7NUnVPjBYUB7qA/edit#slide=id.p1)]
+  [[Oral](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)]
