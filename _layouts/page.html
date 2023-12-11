@@ -7,6 +7,15 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
+
+    {%- if page.social_research %}
+    <div class="social">
+      <div class="contact-icons">
+        {% include social_research.html %}
+      </div>
+    </div>
+    {%- endif %}
+
   </header>
 
   <article>
