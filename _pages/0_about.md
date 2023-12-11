@@ -31,12 +31,9 @@ I'm working on machine learning and normative design, trying to create the next 
 
 
 <!-- 
-<div class="social">
-  <div class="contact-note">
-    {{ site.contact_note_professional }}
-  </div>
-  <div class="contact-icons">
-    {% include social_professional.html %}
-  </div>
-</div> 
+TODO: 
+- Add social in the text instead
+- Add my news 
+- Add awards to Research
+- Make About/Home
 -->
