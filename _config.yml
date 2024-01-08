@@ -83,6 +83,7 @@ semanticscholar_id: # your Semantic Scholar ID
 scopus_id: # your profile on Scopus
 orcid_id: 0009-0007-5830-0611 # your ORCID ID
 
+# Others:
 gitlab_username: # your GitLab user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 telegram_username: # your Telegram user name
