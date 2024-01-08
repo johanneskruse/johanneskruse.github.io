@@ -64,12 +64,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 contact_note: >
   Get in touch @
 
-contact_note_professional: >
-  Get in touch @
-
-contact_note_research: >
-  Research @
-
 # Social links
 github_username: johanneskruse # your GitHub user name
 twitter_username: johanneskrse # your Twitter handle
