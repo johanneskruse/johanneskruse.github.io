@@ -39,31 +39,6 @@ layout: default
       </div>
       {%- endif %}
 
-      <!-- Social Professional -->
-      {%- if page.social_professional %}
-      <div class="social">
-        <div class="contact-note">
-          {{ site.contact_note_professional }}
-        </div>
-        <div class="contact-icons">
-          {% include social_professional.html %}
-        </div>
-      </div>
-      {%- endif %}
-      <!-- -->
-
-      <!-- Social Professional -->
-      {%- if page.social_research %}
-      <div class="social">
-        <div class="contact-note">
-          {{ site.contact_note_research }}
-        </div>
-        <div class="contact-icons">
-          {% include social_research.html %}
-        </div>
-      </div>
-      {%- endif %}
-      <!-- -->
     </div>
     {%- endif %}
 
@@ -103,6 +78,32 @@ layout: default
 
     </div>
     {%- endif %}
+
+    <!-- Social Professional -->
+    {%- if page.social_professional %}
+    <div class="social">
+      <div class="contact-note">
+        {{ site.contact_note_professional }}
+      </div>
+      <div class="contact-icons">
+        {% include social_professional.html %}
+      </div>
+    </div>
+    {%- endif %}
+    <!-- -->
+
+    <!-- Social Research -->
+    {%- if page.social_research %}
+    <div class="social">
+      <div class="contact-note">
+        {{ site.contact_note_research }}
+      </div>
+      <div class="contact-icons">
+        {% include social_research.html %}
+      </div>
+    </div>
+    {%- endif %}
+    <!-- -->
 
 
   </article>
