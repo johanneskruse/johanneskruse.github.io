@@ -15,7 +15,7 @@ nav_order: 2
 - **Creating the next generation of news experience on ekstrabladet.dk with recommender systems** \
   Johannes Kruse, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen. \
   *ACM Conference on Recommender Systems (RecSys)* \
-  [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N_zRKd8AAAAJ&citation_for_view=N_zRKd8AAAAJ:u-x6o8ySG0sC)
+  [Paper](https://dl.acm.org/doi/10.1145/3604915.3610248)
 
 - **NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems** \
   Sanne Vrijenhoek, Lien Michiels, Johannes Kruse, Alain Starke, Nava Tintarev, and Jordi Viader Guerrero \
