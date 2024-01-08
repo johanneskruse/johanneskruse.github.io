@@ -14,19 +14,19 @@ nav_order: 2
 #### **2023**
 - **Creating the next generation of news experience on ekstrabladet.dk with recommender systems** \
   Johannes Kruse, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen. \
-  *ACM Conference on Recommender Systems* \
+  *ACM Conference on Recommender Systems (RecSys)* \
   [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N_zRKd8AAAAJ&citation_for_view=N_zRKd8AAAAJ:u-x6o8ySG0sC)
 
 - **NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems** \
   Sanne Vrijenhoek, Lien Michiels, Johannes Kruse, Alain Starke, Nava Tintarev, and Jordi Viader Guerrero \
-  *ACM Conference on Recommender Systems* \
+  *ACM Conference on Recommender Systems (RecSys)* \
   [Paper](https://doi.org/10.1145/3604915.3608757) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
 #### **2019**
 - **Privacy-by-Design – Technical Report** \
   Johannes Kruse, and Lars Kai Hansen \
   *The Danish Council of Ethics: Statement on health wearables and big data* \
-  [Paper(https://www.ft.dk/samling/20191/almdel/UER/bilag/2/2095890/index.htm)]
+  [Paper](https://www.ft.dk/samling/20191/almdel/UER/bilag/2/2095890/index.htm)
 
 ----
 
@@ -35,7 +35,7 @@ nav_order: 2
 #### **2023**
 <!-- 2023-05-09 -->
 - **Creating the Next Generation of News Experience with Recommender Systems** \
-  *Nordic AI in Media Summit* \
+  *Nordic AI in Media Summit (NAMS)* \
   [Video Presentation](https://www.youtube.com/watch?v=i9hcu3Szo7w) | [Event Page](https://www.nordicaijournalism.com/nordicaimediasummit)
 
 <!-- 2023-03-30 -->
