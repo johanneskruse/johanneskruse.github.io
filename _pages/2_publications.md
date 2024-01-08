@@ -42,8 +42,8 @@ nav_order: 2
 ## **Awards** 
 - **Data and AI-driven Transformation Project of the Year** \
   *Nordic DAIR Awards 2023* \
-  [Website](https://dairawards.com/winners-2023/#organisation-category-winners) | [Video](https://www.youtube.com/watch?v=zNUN3ZubxOs&t=104s)
+  [Project Overview](https://dairawards.com/winners-2023/#organisation-category-winners) | [Awards Ceremony Video](https://www.youtube.com/watch?v=zNUN3ZubxOs&t=104s)
 
 - **Best Product Iteration** \
   *Global Media Awards 2023* \
-  [Website](https://www.inma.org/best-practice/Best-Product-Iteration/2023-180/The-Platform-Intelligence-in-News-project-PIN)
+  [Project Overview](https://www.inma.org/best-practice/Best-Product-Iteration/2023-180/The-Platform-Intelligence-in-News-project-PIN)
