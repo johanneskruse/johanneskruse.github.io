@@ -5,7 +5,6 @@ heading: Research # navbar
 title: Research # page
 nav: true
 nav_order: 2
-social_research: true
 ---
 
 ----
