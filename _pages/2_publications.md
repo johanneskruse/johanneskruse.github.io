@@ -31,10 +31,19 @@ nav_order: 2
 ----
 
 ## **Talks** 
-- **2023-05-09** - Nordic AI in Media Summit
+
+- **2023-05-09** - Nordic AI in Media Summitz
   [[Oral](https://www.youtube.com/watch?v=i9hcu3Szo7w)]
 - **2023-03-30** - Personalization day Norway
   [[Oral](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)]
 
-## **Awards** 
+----
 
+## **Awards** 
+- **Data and AI-driven Transformation Project of the Year** \
+  *Nordic DAIR Awards 2023* \
+  [Website](https://dairawards.com/winners-2023/#organisation-category-winners) | [Video](https://www.youtube.com/watch?v=zNUN3ZubxOs&t=104s)
+
+- **Best Product Iteration** \
+  *Global Media Awards 2023* \
+  [Website](https://www.inma.org/best-practice/Best-Product-Iteration/2023-180/The-Platform-Intelligence-in-News-project-PIN)
