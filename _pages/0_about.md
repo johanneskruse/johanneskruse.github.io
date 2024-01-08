@@ -19,7 +19,6 @@ social: true
 <!-- 
 TODO: 
 - Add my news 
-- Add awards to Research
 - Make About/Home
 -->
 

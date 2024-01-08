@@ -32,26 +32,26 @@ nav_order: 2
 
 ## **Talks** 
 
-#### **2023**
+<!-- #### **2023** -->
 <!-- 2023-05-09 -->
 - **Creating the Next Generation of News Experience with Recommender Systems** \
-  *Nordic AI in Media Summit (NAMS)* \
+  *Nordic AI in Media Summit (NAMS) 2023* \
   [Video Presentation](https://www.youtube.com/watch?v=i9hcu3Szo7w) | [Event Page](https://www.nordicaijournalism.com/nordicaimediasummit)
 
 <!-- 2023-03-30 -->
 - **Creating the next generation of news experience at Ekstra Bladet with Artificial Intelligence** \
-  *Nordic Personalisation Day* \
+  *Nordic Personalisation Day 2023* \
   [Video Presentation](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492) | [Event Page](https://sites.google.com/schibsted.com/personalisationday/home)
 
 ----
 
 ## **Awards** 
 
-#### **2023**
+<!-- #### **2023** -->
 - **Data and AI-driven Transformation Project of the Year** \
-  *Nordic DAIR Awards* \
+  *Nordic DAIR Awards 2023* \
   [Project Overview](https://dairawards.com/winners-2023/#organisation-category-winners) | [Awards Ceremony Video](https://www.youtube.com/watch?v=zNUN3ZubxOs&t=104s)
 
 - **Best Product Iteration** \
-  *Global Media Awards* \
+  *Global Media Awards 2023* \
   [Project Overview](https://www.inma.org/best-practice/Best-Product-Iteration/2023-180/The-Platform-Intelligence-in-News-project-PIN)
