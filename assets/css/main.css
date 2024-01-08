@@ -367,7 +367,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 1rem;
+  font-size: 2rem;
   /* Adjusted from 4rem to 3rem */
 }
 .social .contact-icons a i::before {
@@ -378,7 +378,7 @@ blockquote {
   color: var(--global-theme-color);
 }
 .social .contact-note {
-  font-size: 2rem;
+  font-size: 0.75rem;
 }
 
 footer.fixed-bottom {
