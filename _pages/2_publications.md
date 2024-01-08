@@ -23,19 +23,24 @@ nav_order: 2
   [[Paper](https://doi.org/10.1145/3604915.3608757)] | [[Workshop](https://sites.google.com/view/normalizeworkshop)]
 
 #### **2019**
-- **Privacy-by-Design – Teknisk Report** \
+- **Privacy-by-Design – Technical Report** \
   Johannes Kruse, and Lars Kai Hansen \
-  *Statement on health wearables and big data - The Danish Council of Ethics* \
+  *The Danish Council of Ethics: Statement on health wearables and big data* \
   [[Paper](https://www.ft.dk/samling/20191/almdel/UER/bilag/2/2095890/index.htm)]
 
 ----
 
 ## **Talks** 
+<!-- 2023-05-09 -->
+#### 
+- **Creating the Next Generation of News Experience with Recommender Systems** \
+  *Nordic AI in Media Summit 2023* \
+  [Video Presentation](https://www.youtube.com/watch?v=i9hcu3Szo7w) | [Event Page](https://www.nordicaijournalism.com/nordicaimediasummit)
 
-- **2023-05-09** - Nordic AI in Media Summitz
-  [[Oral](https://www.youtube.com/watch?v=i9hcu3Szo7w)]
-- **2023-03-30** - Personalization day Norway
-  [[Oral](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)]
+<!-- 2023-03-30 -->
+- **Creating the next generation of news experience at Ekstra Bladet with Artificial Intelligence** \
+  *Nordic Personalisation Day 2023* \
+  [Video Presentation](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492) | [Event Page](https://sites.google.com/schibsted.com/personalisationday/home)
 
 ----
 
