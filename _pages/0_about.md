@@ -26,7 +26,13 @@ Hello there 👋 🇩🇰
 
 <p class="justify-text">
 I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the 
-<a href="https://ekstrabladet.dk/" target="_blank">Ekstra Bladet</a>.
+<a href="https://ekstrabladet.dk/" target="_blank">Ekstra Bladet</a>. 
+I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the 
+<a href="https://ekstrabladet.dk/" target="_blank">Ekstra Bladet</a>. 
+I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the 
+<a href="https://ekstrabladet.dk/" target="_blank">Ekstra Bladet</a>. 
+I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the 
+<a href="https://ekstrabladet.dk/" target="_blank">Ekstra Bladet</a>. 
 
 </p>
 <!-- I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the 
