@@ -8,18 +8,17 @@ nav_order: 2
 ---
 
 ----
-
 ## **Publications**
 
 #### **2023**
 - **Creating the next generation of news experience on ekstrabladet.dk with recommender systems** \
   Johannes Kruse, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen. \
-  *ACM Conference on Recommender Systems (RecSys)* \
+  *ACM Conference on Recommender Systems (RecSys '23)* \
   [Paper](https://dl.acm.org/doi/10.1145/3604915.3610248)
 
 - **NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems** \
   Sanne Vrijenhoek, Lien Michiels, Johannes Kruse, Alain Starke, Nava Tintarev, and Jordi Viader Guerrero \
-  *ACM Conference on Recommender Systems (RecSys)* \
+  *ACM Conference on Recommender Systems (RecSys '23)* \
   [Paper](https://doi.org/10.1145/3604915.3608757) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
 #### **2019**
@@ -28,8 +27,12 @@ nav_order: 2
   *The Danish Council of Ethics: Statement on health wearables and big data* \
   [Paper](https://www.ft.dk/samling/20191/almdel/UER/bilag/2/2095890/index.htm)
 
+<!-- 
 ----
+## Workshops, Tutorials, Demos & Others  
+-->
 
+----
 ## **Talks** 
 
 <!-- #### **2023** -->
