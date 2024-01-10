@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 # 
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 # 
 social: true # include the social icons
 news: true # includes a list of news items
