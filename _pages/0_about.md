@@ -31,12 +31,7 @@ I'm working on machine learning and normative design, trying to create the next 
 [Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), and 
 [Jes Frellsen](https://frellsen.org/). 
 
-<!-- 
-<p class="justify-text">
-
+<!-- <p class="justify-text">
 I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the 
 <a href="https://ekstrabladet.dk/" target="_blank">Ekstra Bladet</a>. 
-
-</p>
-
- -->
+</p> -->
