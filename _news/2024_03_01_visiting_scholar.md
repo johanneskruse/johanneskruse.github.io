@@ -13,4 +13,7 @@ Big thanks for the support from my supervisors at DTU - Technical University of 
 [Jes Frellsen](https://frellsen.org/). 
 Jes Frellsen and Michael Riis Andersen, and at JP/Politikens Hus: [Kasper Lindskow](https://www.linkedin.com/in/kasper-lindskow-6bb2089/?originalSubdomain=dk). 🇩🇰
 
-<img src="assets/img/ucsd_visiting_scholar.jpeg" alt=" ">
+<div style="text-align: center;">
+    <img src="../assets/img/ucsd_visiting_scholar.jpeg" alt=" " height="350">
+</div>
+
