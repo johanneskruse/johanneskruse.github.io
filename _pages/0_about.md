@@ -13,7 +13,7 @@ profile:
 latest_posts: false  # includes a list of the newest posts
 # 
 social: true # include the social icons
-news: false # includes a list of news items
+news: true # includes a list of news items
 ---
 
 <!-- 
