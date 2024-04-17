@@ -6,5 +6,9 @@ inline: true
 ---
 
 <div id="content">
+<p class="justify-text">
+
 The RecSys '24 Challenge is LIVE! Check it out: <a href="https://recsys.eb.dk/">recsys.eb.dk</a>
+
+</p>
 </div>
