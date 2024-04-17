@@ -22,6 +22,7 @@ TODO:
 - Make About/Home
 -->
 <div style="text-align: justify;">
+<p>
 Hello there 👋 🇩🇰 
 
 I am Johannes Kruse, currently embarking on an Industrial PhD in Machine Learning at the
@@ -34,4 +35,5 @@ trying to create the next generation's  news experience using recommender system
 <a href="https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en" target="_blank">Michael R. Andersen</a>, and
 <a href="https://frellsen.org/" target="_blank">Jes Frellsen</a>.
 
+</p>
 </div>
