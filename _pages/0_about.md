@@ -18,7 +18,6 @@ news: true # includes a list of news items
 
 <!-- 
 TODO: 
-- Add my news 
 - Make About/Home
 -->
 Hello there 👋 🇩🇰 

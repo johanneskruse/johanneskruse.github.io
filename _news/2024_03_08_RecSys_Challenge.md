@@ -6,4 +6,15 @@ date: 2024-03-08 12:00:00-0000
 inline: true
 ---
 
-The RecSys '24 Challenge is LIVE! Check it out: <a href="https://recsys.eb.dk/">recsys.eb.dk</a>
+The RecSys '24 Challenge is LIVE! Check it out: [recsys.eb.dk](https://recsys.eb.dk) 🚀
+
+***
+
+At [PIN](https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/e3092958-c64c-46f8-94db-36c92bd0b5ed)@[EkstraBladet](https://ekstrabladet.dk/) and in the new joint AI Unit of [JP/Politikens Hus](https://jppol.dk/en/), we aim to support the development of effective and responsible recommender systems for news media. That's why we are now open-sourcing a huge anonymized dataset for the training and evaluation of recommenders 🤖😄.
+
+We are doing this within controlled frameworks as part of the world's largest researcher and industry conference on recommender systems ([ACM RecSys](https://recsys.acm.org/)), under the initiative [RecSys Challenge 2024](https://recsys.acm.org/recsys24/challenge/). 
+
+If you participate in the competition, your results must be submitted via the site above by June 15th at the latest - you can even win quite substantial prizes 💰.
+
+The dataset is now available [recsys.eb.dk](https://recsys.eb.dk) and can be used for the development and analysis of recommendation methods for news media. Over the coming month, we will be gradually releasing tools and evaluation methods aimed at recommender systems for news, which support the training of effective and responsible recommenders.
+
