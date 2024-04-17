@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visiting Scholar at UCSD 🇺🇸
-date: 2024-04-17 16:11:00-0400
+date: 2024-03-01 12:00:00-0000
 # IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
 ---
@@ -14,6 +14,6 @@ Big thanks for the support from my supervisors at DTU - Technical University of 
 Jes Frellsen and Michael Riis Andersen, and at JP/Politikens Hus: [Kasper Lindskow](https://www.linkedin.com/in/kasper-lindskow-6bb2089/?originalSubdomain=dk). 🇩🇰
 
 <div style="text-align: center;">
-    <img src="./assets/img/ucsd_visiting_scholar.jpeg" alt=" " height="350">
+    <img src="assets/img/ucsd_visiting_scholar.jpeg" height="350">
 </div>
 
