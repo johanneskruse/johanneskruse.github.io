@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<div id="content" style="text-align: justify">
-
 ----
 ## **Publications**
 #### **2023**
@@ -71,5 +69,3 @@ nav_order: 2
 - **Best Product Iteration** \
   *Global Media Awards 2023* \
   [Project Overview](https://www.inma.org/best-practice/Best-Product-Iteration/2023-180/The-Platform-Intelligence-in-News-project-PIN)
-
-</div>
