@@ -1,11 +1,9 @@
 ---
 layout: post
-title: no-title
-date: 2016-01-15 07:59:00-0400
+title: A simple inline announcement with Markdown emoji! :sparkles: :smile: (3)
+date: 2022-01-15 07:59:00-0400 
 inline: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
 
 ***
 

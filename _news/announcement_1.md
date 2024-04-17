@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A long announcement with details
+title: A long announcement without details (1)
 date: 2024-03-03 00:00:00-0000
-inline: false
+inline: true
 ---
 
 A simple inline announcement.
