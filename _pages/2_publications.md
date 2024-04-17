@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+<div id="content" style="text-align: justify">
+
 ----
 ## **Publications**
 #### **2023**
@@ -34,7 +36,7 @@ nav_order: 2
   *ACM Conference on Recommender Systems (RecSys '24)* \
   [Workshop](https://sites.google.com/view/normalizeworkshop/recsys24?authuser=0)
 
-- **NORMalize: A Tutorial on the Normative Design and Evaluation of Information Access Systems** 
+- **NORMalize: A Tutorial on the Normative Design and Evaluation of Information Access Systems** \
   Johannes Kruse, Lien Michiels, Alain Starke, Nava Tintarev, Sanne Vrijenhoek \
   Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (CHIIR '24) \
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3627508.3638319) | [Workshop](https://sites.google.com/view/normalizeworkshop/chiir24?authuser=0)
@@ -43,8 +45,6 @@ nav_order: 2
   Sanne Vrijenhoek, Lien Michiels, Johannes Kruse,  Jordi Viader Guerrero, Alain Starke, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '23)* \
   [Paper](https://doi.org/10.1145/3604915.3608757) | [Workshop](https://sites.google.com/view/normalizeworkshop/recsys23?authuser=0)
-
-
 
 
 ----
@@ -71,3 +71,5 @@ nav_order: 2
 - **Best Product Iteration** \
   *Global Media Awards 2023* \
   [Project Overview](https://www.inma.org/best-practice/Best-Product-Iteration/2023-180/The-Platform-Intelligence-in-News-project-PIN)
+
+</div>

@@ -21,7 +21,7 @@ TODO:
 - Add my news 
 - Make About/Home
 -->
-<div style="text-align: justify">
+<div id="content" style="text-align: justify">
 
 Hello there 👋 🇩🇰 
 
