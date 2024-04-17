@@ -2,6 +2,7 @@
 layout: post
 title: Post 2
 date: 2022-11-07 16:11:00-0400
+# IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
 ---
 
