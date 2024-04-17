@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://johanneskruse.github.io/news/2024-03-08%20-%20RecSys%20Challenge/</loc>
+<loc>https://johanneskruse.github.io/news/2024_03_08/</loc>
 <lastmod>2024-03-08T12:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://johanneskruse.github.io/news/2024-04-17%20-%20NORMalize%20at%20RecSys24/</loc>
+<loc>https://johanneskruse.github.io/news/2024_04_17/</loc>
 <lastmod>2024-04-17T20:11:00+00:00</lastmod>
 </url>
 <url>
@@ -19,22 +19,22 @@
 </url>
 <url>
 <loc>https://johanneskruse.github.io/_pages/0_about.html</loc>
-<lastmod>2024-04-17T18:46:31+00:00</lastmod>
+<lastmod>2024-04-17T18:50:32+00:00</lastmod>
 </url>
 <url>
 <loc>https://johanneskruse.github.io/delete/plotly/demo.html</loc>
-<lastmod>2024-04-17T18:46:31+00:00</lastmod>
+<lastmod>2024-04-17T18:50:32+00:00</lastmod>
 </url>
 <url>
 <loc>https://johanneskruse.github.io/delete/repository/repo.html</loc>
-<lastmod>2024-04-17T18:46:31+00:00</lastmod>
+<lastmod>2024-04-17T18:50:32+00:00</lastmod>
 </url>
 <url>
 <loc>https://johanneskruse.github.io/delete/repository/repo_trophies.html</loc>
-<lastmod>2024-04-17T18:46:31+00:00</lastmod>
+<lastmod>2024-04-17T18:50:32+00:00</lastmod>
 </url>
 <url>
 <loc>https://johanneskruse.github.io/delete/repository/repo_user.html</loc>
-<lastmod>2024-04-17T18:46:31+00:00</lastmod>
+<lastmod>2024-04-17T18:50:32+00:00</lastmod>
 </url>
 </urlset>
