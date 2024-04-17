@@ -13,7 +13,7 @@ profile:
 latest_posts: false  # includes a list of the newest posts
 # 
 social: true # include the social icons
-news: true # includes a list of news items
+news: false # includes a list of news items
 ---
 
 <!-- 
@@ -29,3 +29,5 @@ I'm working on machine learning and normative design, trying to create the next 
 [Kasper Lindskow](https://www.linkedin.com/in/kasper-lindskow-6bb2089/?originalSubdomain=dk), 
 [Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), and 
 [Jes Frellsen](https://frellsen.org/). 
+
+{%- include 0_about.html limit=true %}
