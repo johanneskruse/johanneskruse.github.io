@@ -14,7 +14,5 @@ At [PIN](https://www.cbs.dk/en/research/cbs-research-projects/research-projects-
 
 We are doing this within controlled frameworks as part of the world's largest researcher and industry conference on recommender systems ([ACM RecSys](https://recsys.acm.org/)), under the initiative [RecSys Challenge 2024](https://recsys.acm.org/recsys24/challenge/). 
 
-If you participate in the competition, your results must be submitted via the site above by June 21st at the latest - you can even win quite substantial prizes 💰.
-
 The dataset is now available [recsys.eb.dk](https://recsys.eb.dk) and can be used for the development and analysis of recommendation methods for news media. Over the coming month, we will be gradually releasing tools and evaluation methods aimed at recommender systems for news, which support the training of effective and responsible recommenders.
 
