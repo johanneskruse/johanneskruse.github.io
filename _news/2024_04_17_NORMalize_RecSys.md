@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NORMalize Workshop at RecSys'24 in October 🚀
+title: RecSys'24 - NORMalize Workshop has been accepted! 🚀
 date: 2024-04-17 12:00:00-0000
 # IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
