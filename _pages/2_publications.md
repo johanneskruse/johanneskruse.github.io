@@ -28,7 +28,7 @@ nav_order: 2
 
 
 ----
-## Workshops, Tutorials, Demos & Others  
+## **Workshops, Tutorials, Demos & Others**
 - **NORMalize: The Second Workshop on Normative Design and Evaluation of Recommender Systems** \
   Sanne Vrijenhoek, Lien Michiels, Johannes Kruse, Alain Starke, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '24)* \
