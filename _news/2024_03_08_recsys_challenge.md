@@ -1,12 +1,12 @@
 ---
 layout: post
-title: RecSys '24 - Organizing This Year's RecSys Challenge!
-date: 2024-03-08 12:00:00-0000
+title: 🚀 RecSys '24 - Organizing This Year's RecSys Challenge!
+date: 2024-10-14 12:00:00-0000
 # IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
 ---
 
-The RecSys '24 Challenge is LIVE! Check it out: [recsys.eb.dk](https://recsys.eb.dk) 🚀
+Check out the RecSys '24 Challenge organized by Ekstra Bladet and JP/Politikens Media Group: [recsys.eb.dk](https://recsys.eb.dk) 🚀
 
 ***
 

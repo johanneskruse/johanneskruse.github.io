@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visiting Scholar at University of California San Diego (UCSD) 🇺🇸
+title: 🇺🇸 Visiting Scholar at University of California San Diego (UCSD)
 date: 2024-03-01 12:00:00-0000
 # IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
