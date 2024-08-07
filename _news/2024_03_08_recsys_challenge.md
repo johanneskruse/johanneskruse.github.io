@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🚀 RecSys '24 - Organizing This Year's RecSys Challenge!
+title: 🗓️ RecSys '24 - The RecSys Challenge' 24 (organizing)
 date: 2024-10-14 12:00:00-0000
 # IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
