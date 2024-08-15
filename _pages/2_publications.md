@@ -63,6 +63,10 @@ nav_order: 2
 ## **Awards** 
 <!-- #### **2024** -->
 - **Best Use of AI in Revenue Strategy** \
+  *Digital Media Worldwide 2024* \
+  [Project Overview](https://wan-ifra.org/events/digital-media-awards-worldwide/?pagetype=programme) 
+
+- **Best Use of AI in Revenue Strategy** \
   *Digital Media Awards Europe 2024* \
   [Project Overview](https://wan-ifra.org/2024/04/wan-ifra-announces-the-winners-of-the-digital-media-awards-europe-2024/) 
 
