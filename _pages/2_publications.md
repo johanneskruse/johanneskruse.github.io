@@ -12,37 +12,37 @@ nav_order: 2
 ## **Publications**
 #### **2024**
 - **EB-NeRD A Large-Scale Dataset for News Recommendation** \
-  Johannes Kruse, Kasper Lindskow, Saikishore Kalloori, Marco Polignano, Claudio Pomo, Abhishek Srivastava, Anshuk Uppal, Michael Riis Andersen, Jes Frellsen \
+  **Johannes Kruse**, Kasper Lindskow, Saikishore Kalloori, Marco Polignano, Claudio Pomo, Abhishek Srivastava, Anshuk Uppal, Michael Riis Andersen, Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
   (Accepted, under editorial review)
   <!-- TODO: ADD THE PAPER -->
 
 - **RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations** \
-  Johannes Kruse, Kasper Lindskow, Saikishore Kalloori, Marco Polignano, Claudio Pomo, Abhishek Srivastava, Anshuk Uppal, Michael Riis Andersen, Jes Frellsen \
+  **Johannes Kruse**, Kasper Lindskow, Saikishore Kalloori, Marco Polignano, Claudio Pomo, Abhishek Srivastava, Anshuk Uppal, Michael Riis Andersen, Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
   (Accepted, under editorial review)
   <!-- TODO: ADD THE PAPER -->
 
 - **“I must have clicked on something” - Users´ Experiences and Evaluations of Personalized News Recommender Systems** \
-  Árni Már Einarsson, Elisabetta Petrucci, Jannie Møller Hartley, Johannes Kruse \
+  Árni Már Einarsson, Elisabetta Petrucci, Jannie Møller Hartley, **Johannes Kruse** \
   *Journalism Practice* \
   (Accepted, under editorial review)
   <!-- TODO: ADD THE PAPER -->
 
 #### **2023**
 - **Report on NORMalize: The First Workshop on the Normative Design and Evaluation of Recommender Systems** \
-  Sanne Vrijenhoek, Lien Michiels, Johannes Kruse, Alain Starke, Jordi Viader Guerrero, Nava Tintarev \
+  Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, Jordi Viader Guerrero, Nava Tintarev \
   *CEUR Workshop Proceedings* \
   [Paper](https://ceur-ws.org/Vol-3639/)
 
 - **Creating the next generation of news experience on ekstrabladet.dk with recommender systems** \
-  Johannes Kruse, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen. \
+  **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen. \
   *ACM Conference on Recommender Systems (RecSys '23)* \
   [Paper](https://dl.acm.org/doi/10.1145/3604915.3610248)
 
 #### **2019**
 - **Privacy-by-Design – Technical Report** \
-  Johannes Kruse, and Lars Kai Hansen \
+  **Johannes Kruse**, and Lars Kai Hansen \
   *The Danish Council of Ethics: Statement on health wearables and big data* \
   [Paper](https://www.ft.dk/samling/20191/almdel/UER/bilag/2/2095890/index.htm)
 
@@ -50,24 +50,24 @@ nav_order: 2
 ----
 ## **Workshops, Tutorials, Demos & Others**
 - **RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations** \
-  Johannes Kruse, Kasper Lindskow, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
+  **Johannes Kruse**, Kasper Lindskow, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
   [Workshop](https://recsys.eb.dk/)
   <!-- TODO: ADD THE PAPER -->
 
 - **NORMalize: The Second Workshop on Normative Design and Evaluation of Recommender Systems** \
-  Sanne Vrijenhoek, Lien Michiels, Johannes Kruse, Alain Starke, and Nava Tintarev \
+  Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '24)* \
   [Workshop](https://sites.google.com/view/normalizeworkshop/recsys24?authuser=0) 
   <!-- TODO: ADD THE PAPER -->
 
 - **NORMalize: A Tutorial on the Normative Design and Evaluation of Information Access Systems** \
-  Johannes Kruse, Lien Michiels, Alain Starke, Nava Tintarev, Sanne Vrijenhoek \
+  **Johannes Kruse**, Lien Michiels, Alain Starke, Nava Tintarev, Sanne Vrijenhoek \
   Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (CHIIR '24) \
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3627508.3638319) | [Workshop](https://sites.google.com/view/normalizeworkshop/chiir24?authuser=0)
 
 - **NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems** \
-  Sanne Vrijenhoek, Lien Michiels, Johannes Kruse,  Jordi Viader Guerrero, Alain Starke, and Nava Tintarev \
+  Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**,  Jordi Viader Guerrero, Alain Starke, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '23)* \
   [Paper](https://doi.org/10.1145/3604915.3608757) | [Workshop](https://sites.google.com/view/normalizeworkshop/recsys23?authuser=0)
 
