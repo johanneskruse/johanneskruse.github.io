@@ -14,19 +14,19 @@ nav_order: 2
 - **EB-NeRD A Large-Scale Dataset for News Recommendation** \
   **Johannes Kruse**, Kasper Lindskow, Saikishore Kalloori, Marco Polignano, Claudio Pomo, Abhishek Srivastava, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
-  (Accepted, under editorial review)
+  (Accepted, under review)
   <!-- TODO: ADD THE PAPER -->
 
 - **RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations** \
   **Johannes Kruse**, Kasper Lindskow, Saikishore Kalloori, Marco Polignano, Claudio Pomo, Abhishek Srivastava, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
-  (Accepted, under editorial review)
+  (Accepted, under review)
   <!-- TODO: ADD THE PAPER -->
 
 - **“I must have clicked on something” - Users´ Experiences and Evaluations of Personalized News Recommender Systems** \
   Árni Már Einarsson, Elisabetta Petrucci, Jannie Møller Hartley, and **Johannes Kruse** \
   *Journalism Practice* \
-  (Accepted, under editorial review)
+  (Accepted, under review)
   <!-- TODO: ADD THE PAPER -->
 
 #### **2023**
