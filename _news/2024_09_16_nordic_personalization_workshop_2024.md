@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🗓️ Nordic Personalization Workshop 2024 (organizing)!
+title: 🗓️ Nordic Personalization Workshop 2024 (organizing)
 date: 2024-09-16 12:00:00-0000
 # IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
