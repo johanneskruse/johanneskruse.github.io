@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📝 Unlocking AI for News Publishers - Insights and Recommendations from the PIN Report
-date: 2024-10-18 12:00:00-0000
+date: 2024-11-18 12:00:00-0000
 # IF 'incline: True' will put the whole post in the line. It will use the whole annoucement as 'title'.
 inline: false
 ---
