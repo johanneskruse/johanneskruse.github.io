@@ -27,6 +27,11 @@ nav_order: 2
   (Accepted, under review)
   <!-- TODO: ADD THE PAPER -->
 
+- **Report on NORMalize: The Second Workshop on the Normative Design and Evaluation of Recommender Systems** \
+  •	Alain Starke, Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, and Nava Tintarev \
+  *CEUR Workshop Proceedings* \
+  [Paper](https://ceur-ws.org/Vol-3898/)
+
 #### **2023**
 - **Creating the next generation of news experience on ekstrabladet.dk with recommender systems** \
   **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen. \
