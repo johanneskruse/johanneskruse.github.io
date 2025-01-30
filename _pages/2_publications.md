@@ -86,26 +86,26 @@ nav_order: 2
 ----
 ## **Invited Talks** 
 - **AI at JP/Politikens Media Group** \
-  2025. Invited talk at [DN Media Group](https://www.dngroup.com/). 
+  Invited talk at [DN Media Group](https://www.dngroup.com/). 2025.
 
 - **RecSys '24: Balancing Accuracy and Editorial Values in News Recommendations** \
-  2025. Invited talk at [Nordic AI Journalism](https://www.nordicaijournalism.com/). 
+  Invited talk at [Nordic AI Journalism](https://www.nordicaijournalism.com/). 2025. 
 
 - **Open-Sourcing Datasets and Designing Machine Learning Competitions** \
-  2024. Invited talk at University of California San Diego. 
+  Invited talk at University of California San Diego. 2024. 
 
 <!-- 2023-05-09 -->
 - **Creating the Next Generation of News Experience with Recommender Systems** \
-  2023. [Nordic AI in Media Summit](https://www.nordicaijournalism.com/nordicaimediasummit) (NAMS). \
+  [Nordic AI in Media Summit](https://www.nordicaijournalism.com/nordicaimediasummit) (NAMS). 2023. \
   [Video Presentation](https://www.youtube.com/watch?v=i9hcu3Szo7w)
 
 <!-- 2023-03-30 -->
 - **Creating the next generation of news experience at Ekstra Bladet with Artificial Intelligence** \
-  2023. [Nordic Personalisation Day](https://sites.google.com/schibsted.com/personalisationday/home).
+  [Nordic Personalisation Day](https://sites.google.com/schibsted.com/personalisationday/home). 2023. 
   [Video Presentation](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)
 
 - **Do Recommendation Systems Generalize Across News Domains?** \
-  2022. Invited talk at The University of Melbourne. 
+  Invited talk at The University of Melbourne. 2022. 
 
 ----
 
