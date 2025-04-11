@@ -11,6 +11,11 @@ nav_order: 2
 ----
 ## **Publications & Preprints**
 #### **2025**
+- **Why design choices matter in recommender systems** \
+  **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, Jes Frellsen \
+  *Nature Machine Intelligence (2025)* \
+  (Accepted)
+
 - **Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation** \
   Ryotaro Shimizu, Takashi Wada, Yu Wang, **Johannes Kruse**, Sean O'Brien, Sai Htaung Kham, Linxin Song, Yuya Yoshikawa, Yuki Saito, Fugee Tsung, Masayuki Goto, Julian McAuley \
   *ACM Web Conference 2025 (WWW '25)* \
