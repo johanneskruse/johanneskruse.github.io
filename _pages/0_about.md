@@ -16,10 +16,6 @@ social: true # include the social icons
 news: true # includes a list of news items
 ---
 
-<!-- 
-TODO: 
-- Make About/Home
--->
 Hello there 👋 🇩🇰 
 
 I’m Johannes, an Industrial PhD candidate in Computer Science at the [Technical University of Denmark](https://www.dtu.dk/english/) (DTU), collaborating with [JP/Politikens Media Group](https://jppol.dk/en/) on the [Platform Intelligence in News Project](https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/e3092958-c64c-46f8-94db-36c92bd0b5ed) and a visiting research scholar at the [University of California San Diego](https://ucsd.edu/) (UCSD). 
