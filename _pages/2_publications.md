@@ -11,6 +11,11 @@ nav_order: 2
 ----
 ## **Publications & Preprints**
 #### **2025**
+- **Normative Alignment of Recommender Systems via Internal Label Shift** \
+  **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, Ryotaro Shimizu, Julian McAuley, Pierre-Alexandre Mattei, Jes Frellsen \
+  *ACM Conference on Recommender Systems (RecSys '25)* \
+  [Paper](https://doi.org/10.1145/3705328.3759309)
+
 - **Why design choices matter in recommender systems** \
   **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, Jes Frellsen \
   *Nature Machine Intelligence (2025)* \
