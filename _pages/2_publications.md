@@ -71,8 +71,7 @@ nav_order: 2
 - **RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations** \
   **Johannes Kruse**, Kasper Lindskow, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
-  [Workshop](https://recsys.eb.dk/)
-  <!-- TODO: ADD THE PAPER -->
+  [Paper](https://dl.acm.org/doi/10.1145/3640457.3687164) | [Workshop](https://recsys.eb.dk/)
 
 - **NORMalize: The Second Workshop on Normative Design and Evaluation of Recommender Systems** \
   Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, and Nava Tintarev \
