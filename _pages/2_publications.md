@@ -68,6 +68,11 @@ nav_order: 2
 
 ----
 ## **Workshops, Tutorials, Demos & Others**
+- **NORMalize 2025: The Third Workshop on Normative Design and Evaluation of Recommender Systems** \
+  **Lien Michiels, Sanne Vrijenhoek, Alain D. Starke, **Johannes Kruse**, and Savvina Daniil \
+  *ACM Conference on Recommender Systems (RecSys '25)* \
+  [Paper](https://dl.acm.org/doi/10.1145/3705328.3748002) | [Workshop](https://sites.google.com/view/normalizeworkshop)
+
 - **RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations** \
   **Johannes Kruse**, Kasper Lindskow, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
@@ -76,7 +81,7 @@ nav_order: 2
 - **NORMalize: The Second Workshop on Normative Design and Evaluation of Recommender Systems** \
   Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '24)* \
-  [Paper](https://dl.acm.org/doi/abs/10.1145/3640457.3687103) | [Workshop](https://sites.google.com/view/normalizeworkshop/recsys24?authuser=0) 
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3640457.3687103) | [Workshop](https://sites.google.com/view/normalizeworkshop) 
 
 - **Nordic Personalization Workshop** \
   Alan Said, Toine Bogers, Christoph Trattner, Simen Eide, Benjamin Kille, Bruce Ferwerda, and **Johannes Kruse** \
@@ -85,12 +90,12 @@ nav_order: 2
 - **NORMalize: A Tutorial on the Normative Design and Evaluation of Information Access Systems** \
   **Johannes Kruse**, Lien Michiels, Alain Starke, Nava Tintarev, and Sanne Vrijenhoek \
   Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (CHIIR '24) \
-  [Paper](https://dl.acm.org/doi/pdf/10.1145/3627508.3638319) | [Workshop](https://sites.google.com/view/normalizeworkshop/chiir24?authuser=0)
+  [Paper](https://dl.acm.org/doi/pdf/10.1145/3627508.3638319) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
 - **NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems** \
   Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, Jordi Viader Guerrero, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '23)* \
-  [Paper](https://doi.org/10.1145/3604915.3608757) | [Workshop](https://sites.google.com/view/normalizeworkshop/recsys23?authuser=0)
+  [Paper](https://doi.org/10.1145/3604915.3608757) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
 ----
 ## **Invited Talks** 
