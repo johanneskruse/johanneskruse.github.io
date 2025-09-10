@@ -19,7 +19,7 @@ nav_order: 2
 - **Why design choices matter in recommender systems** \
   **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen \
   *Nature Machine Intelligence (2025)* \
-  [Paper](https://www.nature.com/articles/s42256-025-01043-5.epdf?sharing_token=BmjVdyNM0B49U5uslj_qXNRgN0jAjWel9jnR3ZoTv0N-QFrIAp25ScsG4Mp89qWAA0fqvOMGOIcMdVp8kCb6xgqbZB-RAdevBFHWDhJ0vGwUiPvzbVMXYI5Xh-V813S-F2dLzJH84qJeqrzkR0aiXqPwaFWLK7XM7bBhOUZFnqA%3D)
+  [Paper](https://rdcu.be/esXqW)
 
 - **Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation** \
   Ryotaro Shimizu, Takashi Wada, Yu Wang, **Johannes Kruse**, Sean O'Brien, Sai Htaung Kham, Linxin Song, Yuya Yoshikawa, Yuki Saito, Fugee Tsung, Masayuki Goto, and Julian McAuley \
