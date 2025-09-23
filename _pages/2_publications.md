@@ -38,7 +38,7 @@ nav_order: 2
   [Paper](https://dl.acm.org/doi/10.1145/3687151.3687152)
 
 - **“I must have clicked on something” - Users´ Experiences and Evaluations of Personalized News Recommender Systems** \
-  Árni Már Einarsson, Elisabetta Petrucci, Jannie Møller Hartley, and **Johannes Kruse** \
+  Árni Már Einarsson, Elisabetta Petrucci, Jannie Møller Hartley, Stine Lomborg, and **Johannes Kruse** \
   *Journalism Practice* \
   ([Accepted/In press - 3 Sept 2024](https://forskning.ruc.dk/en/publications/i-must-have-clicked-on-something-users-experiences-and-evaluation))
   <!-- TODO: ADD THE PAPER -->
