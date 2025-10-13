@@ -69,7 +69,7 @@ nav_order: 2
 ----
 ## **Workshops, Tutorials, Demos & Others**
 - **NORMalize 2025: The Third Workshop on Normative Design and Evaluation of Recommender Systems** \
-  **Lien Michiels, Sanne Vrijenhoek, Alain D. Starke, **Johannes Kruse**, and Savvina Daniil \
+  Lien Michiels, Sanne Vrijenhoek, Alain D. Starke, **Johannes Kruse**, and Savvina Daniil \
   *ACM Conference on Recommender Systems (RecSys '25)* \
   [Paper](https://dl.acm.org/doi/10.1145/3705328.3748002) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
@@ -115,7 +115,7 @@ nav_order: 2
 
 <!-- 2023-03-30 -->
 - **Creating the next generation of news experience at Ekstra Bladet with Artificial Intelligence** \
-  [Nordic Personalisation Day](https://sites.google.com/schibsted.com/personalisationday/home). 2023. 
+  Nordic Personalisation Day. 2023. 
   [Video Presentation](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)
 
 - **Do Recommendation Systems Generalize Across News Domains?** \
@@ -127,7 +127,7 @@ nav_order: 2
 <!-- #### **2024** -->
 - **Best Use of AI in Revenue Strategy** \
   *Digital Media Worldwide 2024* \
-  [Project Overview](https://wan-ifra.org/events/digital-media-awards-worldwide/?pagetype=programme) 
+  [Project Overview](https://wan-ifra.org/2024/05/wan-ifra-announced-winners-of-the-2024-digital-media-awards-worldwide/) 
 
 - **Best Use of AI in Revenue Strategy** \
   *Digital Media Awards Europe 2024* \
