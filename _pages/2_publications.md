@@ -14,7 +14,7 @@ nav_order: 2
 - **“I must have clicked on something” - Users´ Experiences and Evaluations of Personalized News Recommender Systems** \
   Árni Már Einarsson, Elisabetta Petrucci, Jannie Møller Hartley, Stine Lomborg, and **Johannes Kruse** \
   *Journalism Practice* \
-  ([Accepted/In press - 3 Sept 2025](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2572972))
+  [Paper](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2572972)
 
 - **Normative Alignment of Recommender Systems via Internal Label Shift** \
   **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, Ryotaro Shimizu, Julian McAuley, Pierre-Alexandre Mattei, and Jes Frellsen \
