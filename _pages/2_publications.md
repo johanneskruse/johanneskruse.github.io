@@ -29,7 +29,7 @@ nav_order: 2
 - **Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation** \
   Ryotaro Shimizu, Takashi Wada, Yu Wang, **Johannes Kruse**, Sean O'Brien, Sai Htaung Kham, Linxin Song, Yuya Yoshikawa, Yuki Saito, Fugee Tsung, Masayuki Goto, and Julian McAuley \
   *ACM Web Conference 2025 (WWW '25)* \
-  [Preprint](https://arxiv.org/abs/2410.13248)
+  [Paper](https://dl.acm.org/doi/10.1145/3696410.3714583)
 
 #### **2024**
 - **RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations** \
