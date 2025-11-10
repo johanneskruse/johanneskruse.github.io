@@ -6,7 +6,7 @@ date: 2024-11-18 12:00:00-0000
 inline: false
 ---
 
-The Platform Intelligence in News project (PIN), for which I have worked as an industrial PhD since 2021, has just published a report with recommendations on AI for news publishers! 🤖
+The Platform Intelligence in News project (PIN), for which I have worked as an industrial Ph.D. since 2021, has just published a report with recommendations on AI for news publishers! 🤖
 
 If this interests you, the report can be downloaded here: [Insights and Recommendations for News Publishers](https://jppol.dk/wp-content/uploads/2024/11/pin-industrialreport-2024-final-6.pdf).
 
