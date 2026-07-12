@@ -16,10 +16,12 @@ social: true # include the social icons
 news: true # includes a list of news items
 ---
 
-Hello there 👋 🇩🇰  
+## Hi, I’m Johannes 👋 🇩🇰
 
-I’m Johannes — an Applied AI Scientist at [JP/Politikens Media Group](https://jppol.dk/en/), where I develop responsible, large-scale recommender systems for news media. My work bridges academic research and real-world applications, combining expertise in A/B testing, MLOps, and the deployment of production-level AI systems.
+I’m an Applied Scientist II at [Amazon](https://www.amazon.com/), working on machine learning and recommender systems at scale.
 
-I hold a Ph.D. in Computer Science from the [Technical University of Denmark](https://www.dtu.dk/english/) (DTU), completed in collaboration with JP/Politikens Media Group as part of the [Platform Intelligence in News Project](https://www.cbs.dk/en/research/cbs-research-projects/research-projects-overview/e3092958-c64c-46f8-94db-36c92bd0b5ed). I was also a visiting research scholar at the [University of California San Diego](https://ucsd.edu/) (UCSD).  
+My research focuses on responsible recommender systems, personalization, evaluation, and normative alignment.
 
-My research focuses on building responsible recommender systems that align with editorial and ethical values by integrating machine learning (ML) and normative design. As part of this work, I developed and deployed the first large-scale recommender systems for [EkstraBladet.dk](https://ekstrabladet.dk/), now serving millions of users daily. I was fortunate to be supervised by Dr. [Kasper Lindskow](https://www.linkedin.com/in/kasper-lindskow-6bb2089/?originalSubdomain=dk), Assoc. Prof. [Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), Assoc. Prof. [Jes Frellsen](https://frellsen.org/), Prof. [Lars Kai Hansen](https://scholar.google.dk/citations?user=gQVuJh8AAAAJ&hl=da), and Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).  
+I hold a Ph.D. in Computer Science from the [Technical University of Denmark](https://www.dtu.dk/english/), supervised by Dr. [Kasper Lindskow](https://www.linkedin.com/in/kasper-lindskow-6bb2089/?originalSubdomain=dk), Assoc. Prof. [Michael R. Andersen](https://scholar.google.dk/citations?user=cOrfSmIAAAAJ&hl=en), Assoc. Prof. [Jes Frellsen](https://frellsen.org/), and Prof. [Lars Kai Hansen](https://scholar.google.dk/citations?user=gQVuJh8AAAAJ&hl=da). I was also a visiting research scholar at [UC San Diego](https://ucsd.edu/), where I worked with Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
+
+Before joining Amazon, I built and deployed the first large-scale recommender systems for [Ekstra Bladet](https://ekstrabladet.dk/), serving millions of readers.
