@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joined Amazon as Applied Scientist II
+title: 💼 Joined Amazon as Applied Scientist II
 date: 2026-05-11 12:00:00-0000
 inline: false
 ---
