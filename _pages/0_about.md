@@ -16,9 +16,9 @@ social: true # include the social icons
 news: true # includes a list of news items
 ---
 
-## Hi, I’m Johannes 👋 🇩🇰
+## Applied Scientist II at Amazon
 
-I’m an Applied Scientist II at [Amazon](https://www.amazon.com/), working on machine learning and recommender systems at scale.
+I work on machine learning and recommender systems at scale.
 
 My research focuses on responsible recommender systems, personalization, evaluation, and normative alignment.
 
