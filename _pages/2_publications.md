@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!-- TODO: add DOI? -->
 ----
 ## **Publications & Preprints**
 #### **2026**
@@ -17,7 +16,7 @@ nav_order: 2
   [Paper](https://doi.org/10.1145/3805712.3809909)
 
 #### **2025**
-- **“I must have clicked on something” - Users´ Experiences and Evaluations of Personalized News Recommender Systems** \
+- **“I must have clicked on something” - Users' Experiences and Evaluations of Personalized News Recommender Systems** \
   Árni Már Einarsson, Elisabetta Petrucci, Jannie Møller Hartley, Stine Lomborg, and **Johannes Kruse** \
   *Journalism Practice* \
   [Paper](https://www.tandfonline.com/doi/full/10.1080/17512786.2025.2572972)
@@ -147,4 +146,4 @@ nav_order: 2
   *Global Media Awards 2023* \
   [Project Overview](https://www.inma.org/best-practice/Best-Product-Iteration/2023-180/The-Platform-Intelligence-in-News-project-PIN)
 
-*These awards reflect the combined efforts and accomplishments of our talented team at Platform Intellenge in News (PIN).*
+*These awards reflect the combined efforts and accomplishments of our talented team at Platform Intelligence in News (PIN).*
