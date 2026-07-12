@@ -8,12 +8,12 @@ middle_name:
 last_name: Kruse
 email: johanneskruse@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Johannes Kruse is an Applied Scientist II at Amazon working on responsible, large-scale AI and recommender systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Johannes Kruse, Amazon, Applied Scientist II, recommender systems, responsible AI, news recommendation, personalization, machine learning, JP/Politikens Media Group, Technical University of Denmark  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: profile.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
