@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📄 ZoRRO paper at ACM SIGIR 2026
-date: 2026-07-12 12:00:00-0000
+date: 2026-04-02 12:00:00-0000
 inline: false
 ---
 
