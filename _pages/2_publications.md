@@ -72,6 +72,11 @@ nav_order: 2
 
 ----
 ## **Workshops, Tutorials, Demos & Others**
+- **Recommenders in News Media** \
+  Jon Tofteskov, **Johannes Kruse**, Sanne Vrijenhoek, and Annelien Smets \
+  *Nordic AI in Media Summit (NAMS '26) Side Event* \
+  [Workshop](https://sites.google.com/view/recommenders-in-news-media)
+
 - **NORMalize 2025: The Third Workshop on Normative Design and Evaluation of Recommender Systems** \
   Lien Michiels, Sanne Vrijenhoek, Alain D. Starke, **Johannes Kruse**, and Savvina Daniil \
   *ACM Conference on Recommender Systems (RecSys '25)* \
