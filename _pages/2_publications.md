@@ -13,7 +13,8 @@ nav_order: 2
 - **ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation** \
   **Johannes Kruse**, Ryotaro Shimizu, Kasper Lindskow, Jon Tofteskov, Michael Riis Andersen, Julian McAuley, and Jes Frellsen \
   *ACM SIGIR Conference on Research and Development in Information Retrieval* \
-  [Paper](https://doi.org/10.1145/3805712.3809909)
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3805712.3809909)
+  
 
 #### **2025**
 - **“I must have clicked on something” - Users' Experiences and Evaluations of Personalized News Recommender Systems** \
