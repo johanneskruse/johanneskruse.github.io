@@ -9,12 +9,12 @@ nav_order: 2
 
 ----
 ## **Publications & Preprints**
+
 #### **2026**
 - **ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation** \
   **Johannes Kruse**, Ryotaro Shimizu, Kasper Lindskow, Jon Tofteskov, Michael Riis Andersen, Julian McAuley, and Jes Frellsen \
   *ACM SIGIR Conference on Research and Development in Information Retrieval* \
   [Paper](https://dl.acm.org/doi/abs/10.1145/3805712.3809909)
-  
 
 #### **2025**
 - **“I must have clicked on something” - Users' Experiences and Evaluations of Personalized News Recommender Systems** \
@@ -49,13 +49,13 @@ nav_order: 2
   [Paper](https://dl.acm.org/doi/10.1145/3687151.3687152)
 
 - **Report on NORMalize: The Second Workshop on the Normative Design and Evaluation of Recommender Systems** \
-  •	Alain Starke, Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, and Nava Tintarev \
+  Alain Starke, Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, and Nava Tintarev \
   *CEUR Workshop Proceedings* \
   [Paper](https://ceur-ws.org/Vol-3898/)
 
 #### **2023**
 - **Creating the next generation of news experience on ekstrabladet.dk with recommender systems** \
-  **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen. \
+  **Johannes Kruse**, Kasper Lindskow, Michael Riis Andersen, and Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '23)* \
   [Paper](https://dl.acm.org/doi/10.1145/3604915.3610248)
 
@@ -73,50 +73,75 @@ nav_order: 2
 
 ----
 ## **Workshops, Tutorials, Demos & Others**
+
 - **Recommenders in News Media** \
-  Jon Tofteskov, **Johannes Kruse**, Sanne Vrijenhoek, and Annelien Smets \
+  Co-organizer. Jon Tofteskov, **Johannes Kruse**, Sanne Vrijenhoek, and Annelien Smets \
   *Nordic AI in Media Summit (NAMS '26) Side Event* \
   [Workshop](https://sites.google.com/view/recommenders-in-news-media)
 
 - **NORMalize 2025: The Third Workshop on Normative Design and Evaluation of Recommender Systems** \
-  Lien Michiels, Sanne Vrijenhoek, Alain D. Starke, **Johannes Kruse**, and Savvina Daniil \
+  Co-organizer. Lien Michiels, Sanne Vrijenhoek, Alain D. Starke, **Johannes Kruse**, and Savvina Daniil \
   *ACM Conference on Recommender Systems (RecSys '25)* \
   [Paper](https://dl.acm.org/doi/10.1145/3705328.3748002) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
 - **RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations** \
-  **Johannes Kruse**, Kasper Lindskow, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
+  Co-organizer. **Johannes Kruse**, Kasper Lindskow, Anshuk Uppal, Michael Riis Andersen, and Jes Frellsen \
   *ACM Conference on Recommender Systems (RecSys '24)* \
   [Paper](https://dl.acm.org/doi/10.1145/3640457.3687164) | [Workshop](https://recsys.eb.dk/)
 
 - **NORMalize: The Second Workshop on Normative Design and Evaluation of Recommender Systems** \
-  Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, and Nava Tintarev \
+  Co-organizer. Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '24)* \
-  [Paper](https://dl.acm.org/doi/abs/10.1145/3640457.3687103) | [Workshop](https://sites.google.com/view/normalizeworkshop) 
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3640457.3687103) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
 - **Nordic Personalization Workshop** \
-  Alan Said, Toine Bogers, Christoph Trattner, Simen Eide, Benjamin Kille, Bruce Ferwerda, and **Johannes Kruse** \
-  [Workshop](https://personalizationday.github.io/2024/) 
+  Co-organizer. Alan Said, Toine Bogers, Christoph Trattner, Simen Eide, Benjamin Kille, Bruce Ferwerda, and **Johannes Kruse** \
+  [Workshop](https://personalizationday.github.io/2024/)
 
 - **NORMalize: A Tutorial on the Normative Design and Evaluation of Information Access Systems** \
   **Johannes Kruse**, Lien Michiels, Alain Starke, Nava Tintarev, and Sanne Vrijenhoek \
-  Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (CHIIR '24) \
-  [Paper](https://dl.acm.org/doi/pdf/10.1145/3627508.3638319) | [Workshop](https://sites.google.com/view/normalizeworkshop)
+  *Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (CHIIR '24)* \
+  [Paper](https://dl.acm.org/doi/pdf/10.1145/3627508.3638319) | [Tutorial](https://sites.google.com/view/normalizeworkshop)
 
 - **NORMalize: The First Workshop on Normative Design and Evaluation of Recommender Systems** \
-  Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, Jordi Viader Guerrero, and Nava Tintarev \
+  Co-organizer. Sanne Vrijenhoek, Lien Michiels, **Johannes Kruse**, Alain Starke, Jordi Viader Guerrero, and Nava Tintarev \
   *ACM Conference on Recommender Systems (RecSys '23)* \
   [Paper](https://doi.org/10.1145/3604915.3608757) | [Workshop](https://sites.google.com/view/normalizeworkshop)
 
+
 ----
-## **Invited Talks** 
+## **Academic Service & Peer Reviewing**
+
+- **Amazon Machine Learning Conference (AMLC 2026)** \
+  Reviewer, *3rd AMLC Time Series Forecasting Workshop*. 2026.
+
+- **ACM SIGIR Conference on Research and Development in Information Retrieval** \
+  Reviewer, Short Papers Track.
+
+- **ACM Conference on Recommender Systems (RecSys)** \
+  Reviewer for Research & Practice, Notes, Demos, Late-Breaking Results, and Reproducibility tracks.
+
+- **ACM Conference on Human Factors in Computing Systems (CHI)** \
+  Reviewer.
+
+- **The Web Conference (WWW)** \
+  Reviewer, User Modeling, Personalization, and Recommendation area.
+
+- **Neural Information Processing Systems (NeurIPS)** \
+  Reviewer, Competition Track.
+
+
+----
+## **Invited Talks**
+
 - **AI at JP/Politikens Media Group** \
   Invited talk at [DN Media Group](https://www.dngroup.com/). 2025.
 
 - **RecSys '24: Balancing Accuracy and Editorial Values in News Recommendations** \
-  Invited talk at [Nordic AI Journalism](https://www.nordicaijournalism.com/). 2025. 
+  Invited talk at [Nordic AI Journalism](https://www.nordicaijournalism.com/). 2025.
 
 - **Open-Sourcing Datasets and Designing Machine Learning Competitions** \
-  Invited talk at University of California San Diego. 2024. 
+  Invited talk at University of California San Diego. 2024.
 
 <!-- 2023-05-09 -->
 - **Creating the Next Generation of News Experience with Recommender Systems** \
@@ -125,23 +150,24 @@ nav_order: 2
 
 <!-- 2023-03-30 -->
 - **Creating the next generation of news experience at Ekstra Bladet with Artificial Intelligence** \
-  Nordic Personalisation Day. 2023. 
+  Nordic Personalisation Day. 2023. \
   [Video Presentation](https://youtu.be/piCuYLEYQZc?si=1GjFBCl9-lRsfE1Q&t=13492)
 
 - **Do Recommendation Systems Generalize Across News Domains?** \
-  Invited talk at The University of Melbourne. 2022. 
+  Invited talk at The University of Melbourne. 2022.
+
 
 ----
+## **Awards**
 
-## **Awards** 
 <!-- #### **2024** -->
 - **Best Use of AI in Revenue Strategy** \
   *Digital Media Worldwide 2024* \
-  [Project Overview](https://wan-ifra.org/2024/05/wan-ifra-announced-winners-of-the-2024-digital-media-awards-worldwide/) 
+  [Project Overview](https://wan-ifra.org/2024/05/wan-ifra-announced-winners-of-the-2024-digital-media-awards-worldwide/)
 
 - **Best Use of AI in Revenue Strategy** \
   *Digital Media Awards Europe 2024* \
-  [Project Overview](https://wan-ifra.org/2024/04/wan-ifra-announces-the-winners-of-the-digital-media-awards-europe-2024/) 
+  [Project Overview](https://wan-ifra.org/2024/04/wan-ifra-announces-the-winners-of-the-2024-digital-media-awards-europe-2024/)
 
 <!-- #### **2023** -->
 - **Data and AI-driven Transformation Project of the Year** \
